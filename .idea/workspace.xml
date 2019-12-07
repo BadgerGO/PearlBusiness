@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf5ca510-637f-4024-939e-b8d6f2f079b8" name="Default Changelist" comment="项目初始化">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/client/XcServiceList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/model/request/RequestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/model/response/CommonCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/model/response/QueryResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/model/response/QueryResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/model/response/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/model/response/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/model/response/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/web/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/CmsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/CmsConfigModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/CmsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/CmsPageParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/CmsSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/CmsSiteServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/CmsTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/ext/CmsPageExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/ext/CmsTemplateExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/request/QueryPageRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/response/CmsCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/response/CmsPageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/response/CoursePreviewResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/cms/response/GenerateHtmlResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/CourseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/CourseIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/CourseMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/CourseOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/CoursePic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/CoursePre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/CoursePub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/Teachplan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/TeachplanMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/CategoryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/CategoryParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/CourseInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/TeachplanExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/TeachplanNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/TeachplanParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/request/CourseListRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/response/AddCourseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/response/CourseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/response/DeleteCourseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/filesystem/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/filesystem/response/FileSystemCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/filesystem/response/UploadFileResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/learning/XcLearningCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/learning/XcLearningList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/MediaFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/MediaFileProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/MediaFileProcess_m3u8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/MediaVideoCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/MediaVideoCourseSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/request/QueryMediaFileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/response/CheckChunkResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/response/MediaCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/response/MediaCourseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/media/response/MediaFileResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/XcOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/XcOrdersDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/XcOrdersPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/request/CreateOrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/request/weixinPayInformRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/response/CreateOrderResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/response/OrderCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/response/OrderResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/response/PayOrderResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/order/response/PayQrcodeResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/portalview/PreViewCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/portalview/PreViewCourseMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/portalview/ViewCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/portalview/ViewCourseMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/portalview/response/PortalViewCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/report/ReportCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/report/ReportCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/search/CourseSearchParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/system/SysDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/system/SysDictionaryValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/task/XcTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/task/XcTaskHis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/test/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/XcCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/XcCompanyUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/XcMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/XcPermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/XcRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/XcTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/XcUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/XcUserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/ext/AuthToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/ext/UserBasicInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/ext/UserToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/ext/UserTokenStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/ext/XcMenuExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/ext/XcUserExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/response/AuthCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/response/JwtResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/response/LoginResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/ucenter/response/UcenterCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/BCryptUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/GenerateOrderNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/HlsVideoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/HttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/MD5Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/Mp4VideoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/Oauth2Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/Snowflake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/SnowflakeIdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/VideoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/XcOauth2Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/ZipUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\PearlBusiness\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UdGxhyFHCwaH3fPXFNZFMGz16L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\PearlBusiness\pearl-model\src\main\java\com\pearl" />
+      <recent name="G:\PearlBusiness\pearl-common\src\main\java\com\pearl" />
+      <recent name="G:\PearlBusiness\pearl-utils\src\main\java\com\pearl" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf5ca510-637f-4024-939e-b8d6f2f079b8" name="Default Changelist" comment="" />
+      <created>1575679306664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575679306664</updated>
+      <workItem from="1575679309521" duration="6523000" />
+      <workItem from="1575688303715" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="207" key="#Notifications" timestamp="1575688330041">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="207" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1575688330041" />
+    <state x="1168" y="485" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1575682287791">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1168" y="485" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1575682287791" />
+    <state x="976" y="502" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575683409871">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="976" y="502" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1575683409871" />
+    <state x="618" y="144" key="CommitChangelistDialog2" timestamp="1575688763160">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="618" y="144" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1575688763160" />
+    <state x="804" y="310" key="FileChooserDialogImpl" timestamp="1575688518115">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="804" y="310" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1575688518115" />
+    <state x="579" y="59" width="1195" height="883" key="SettingsEditor" timestamp="1575688921091">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="579" y="59" width="1195" height="883" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1575688921091" />
+    <state x="617" y="288" key="Vcs.Push.Dialog.v2" timestamp="1575689119227">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="288" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1575689119227" />
+    <state x="624" y="254" width="800" height="604" key="find.popup" timestamp="1575683797572">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="624" y="254" width="800" height="604" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1575683797572" />
+    <state x="846" y="311" key="new project wizard" timestamp="1575679572396">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="846" y="311" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1575679572396" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1575682863176">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1575682863176" />
+  </component>
+</project>
