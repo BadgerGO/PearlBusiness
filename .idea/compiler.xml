@@ -8,9 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="pearl-utils" />
-        <module name="pearl-model" />
-        <module name="pearl-common" />
         <module name="pearl-api" />
+        <module name="pearl-model" />
+        <module name="pearl-manage-course" />
+        <module name="pearl-common" />
       </profile>
     </annotationProcessing>
   </component>
@@ -18,6 +19,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="pearl-api" options="-parameters" />
       <module name="pearl-common" options="-parameters" />
+      <module name="pearl-manage-course" options="-parameters" />
       <module name="pearl-model" options="-parameters" />
       <module name="pearl-utils" options="-parameters" />
     </option>

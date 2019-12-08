@@ -13,6 +13,7 @@
         <module>pearl-common</module>
         <module>pearl-model</module>
         <module>pearl-utils</module>
+        <module>pearl-manage-course</module>
     </modules>
 
     <parent>
