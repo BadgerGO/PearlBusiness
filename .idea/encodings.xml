@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/pearl-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pearl-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pearl-filesystem/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pearl-manage-course/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pearl-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pearl-utils/src/main/java" charset="UTF-8" />

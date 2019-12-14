@@ -14,6 +14,7 @@
         <module>pearl-model</module>
         <module>pearl-utils</module>
         <module>pearl-manage-course</module>
+        <module>pearl-filesystem</module>
     </modules>
 
     <parent>

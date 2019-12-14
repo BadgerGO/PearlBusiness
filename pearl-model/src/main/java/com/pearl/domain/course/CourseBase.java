@@ -22,6 +22,7 @@ public class CourseBase implements Serializable {
     private String id;
     private String name;
     private String users;
+    //课程分类
     private String mt;
     private String st;
     private String grade;

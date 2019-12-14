@@ -1,12 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf5ca510-637f-4024-939e-b8d6f2f079b8" name="Default Changelist" comment="项目初始化">
-      <change afterPath="$PROJECT_DIR$/pearl-manage-course/pom.xml" afterDir="false" />
+    <list default="true" id="cf5ca510-637f-4024-939e-b8d6f2f079b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a69b0610-897b-41d2-b38a-46671606b560.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/a69b0610-897b-41d2-b38a-46671606b560/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-api/src/main/java/com/pearl/api/course/CategoryControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-api/src/main/java/com/pearl/api/course/CourseControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-api/src/main/java/com/pearl/api/course/SysDictionaryControllerApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-api/target/classes/com/pearl/api/course/CategoryControllerApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-api/target/classes/com/pearl/api/course/CourseControllerApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-api/target/classes/com/pearl/api/course/SysDictionaryControllerApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/exception/ExceptionCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/exception/ExceptionCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/client/XcServiceList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/exception/CustomException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/exception/ExceptionCast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/exception/ExceptionCatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/model/request/RequestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/model/response/CommonCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/model/response/QueryResponseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/model/response/QueryResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/model/response/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/model/response/ResponseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/model/response/ResultCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-common/target/classes/com/pearl/web/BaseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-filesystem/pearl-filesystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-filesystem/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/ManageCourseApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/controller/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/controller/SysDictionaryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/dao/CategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/dao/CourseBaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/dao/CourseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/dao/SysDictionaryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/dao/TeachplanMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/dao/TeachplanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/service/SysDictionaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/resources/com/pearl/manage_course/dao/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/resources/com/pearl/manage_course/dao/CourseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/resources/com/pearl/manage_course/dao/TeachplanMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/src/test/java/com/pearl/mansge_course/dao/Testdao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/META-INF/pearl-manage-course.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/ManageCourseApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/controller/CategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/controller/CourseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/controller/SysDictionaryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/dao/CategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/dao/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/dao/CourseBaseRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/dao/CourseMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/dao/CourseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/dao/SysDictionaryRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/dao/TeachplanMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/dao/TeachplanMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/dao/TeachplanRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/service/CategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/service/CourseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/com/pearl/manage_course/service/SysDictionaryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-manage-course/target/test-classes/com/pearl/mansge_course/dao/Testdao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/CmsConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/CmsConfigModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/CmsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/CmsPageParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/CmsSite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/CmsSiteServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/CmsTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/ext/CmsPageExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/ext/CmsTemplateExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/request/QueryPageRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/response/CmsCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/response/CmsPageResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/response/CoursePreviewResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/cms/response/GenerateHtmlResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/CourseBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/CourseIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/CourseMarket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/CourseOff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/CoursePic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/CoursePre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/CoursePub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/Teachplan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/TeachplanMedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/ext/CategoryNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/ext/CategoryParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/ext/CourseInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/ext/TeachplanExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/ext/TeachplanNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/ext/TeachplanParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/request/CourseListRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/response/AddCourseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/response/CourseCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/course/response/DeleteCourseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/filesystem/FileSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/filesystem/response/FileSystemCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/filesystem/response/UploadFileResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/learning/XcLearningCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/learning/XcLearningList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/MediaFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/MediaFileProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/MediaFileProcess_m3u8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/MediaVideoCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/MediaVideoCourseSimple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/request/QueryMediaFileRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/response/CheckChunkResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/response/MediaCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/response/MediaCourseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/media/response/MediaFileResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/XcOrders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/XcOrdersDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/XcOrdersPay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/request/CreateOrderRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/request/weixinPayInformRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/response/CreateOrderResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/response/OrderCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/response/OrderResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/response/PayOrderResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/order/response/PayQrcodeResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/portalview/PreViewCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/portalview/PreViewCourseMedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/portalview/ViewCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/portalview/ViewCourseMedia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/portalview/response/PortalViewCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/report/ReportCompany.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/report/ReportCourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/search/CourseSearchParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/system/SysDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/system/SysDictionaryValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/task/XcTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/task/XcTaskHis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/test/UserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/XcCompany.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/XcCompanyUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/XcMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/XcPermission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/XcRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/XcTeacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/XcUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/XcUserRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/ext/AuthToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/ext/UserBasicInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/ext/UserToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/ext/UserTokenStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/ext/XcMenuExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/ext/XcUserExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/request/LoginRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/response/AuthCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/response/JwtResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/response/LoginResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-model/target/classes/com/pearl/domain/ucenter/response/UcenterCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/APP首页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/QiNiuImageVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/java/com/pearl/utils/QiNiuUploadUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/BCryptUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/CookieUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/GenerateOrderNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/HlsVideoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/HttpClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/HttpClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/MD5Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/Mp4VideoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/Oauth2Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/QiNiuImageVariable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/QiNiuUploadUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/Snowflake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/SnowflakeIdWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/VideoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/XcOauth2Util$UserJwt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/XcOauth2Util.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pearl-utils/target/classes/com/pearl/utils/ZipUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/model/response/CommonCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/pearl-common/src/main/java/com/pearl/model/response/CommonCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/CourseBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/CourseBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/CategoryNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/CategoryNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/TeachplanNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/course/ext/TeachplanNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/system/SysDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/system/SysDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/system/SysDictionaryValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/pearl-model/src/main/java/com/pearl/domain/system/SysDictionaryValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pearl-utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pearl-utils/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +201,48 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - xc_course@47.101.134.49" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - xc_course@47.101.134.49" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - xc_course@47.101.134.49" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="xc_course: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - xc_course@47.101.134.49" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="xc_course: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="teachplan: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -55,6 +281,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -63,13 +290,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pearl-manage-course/src/main/resources/com/pearl/manage_course/dao" />
+    <property name="last_opened_file_path" value="D:/学成在线项目/08-课程图片管理与分布式文件系统/代码/xcEduService01" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -77,14 +307,27 @@
       <recent name="com.pearl.manage_course.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\PearlBusiness\pearl-common\src\main\java\com\pearl\exception" />
       <recent name="G:\PearlBusiness\pearl-manage-course\src\main\resources\com\pearl\manage_course\dao" />
       <recent name="G:\PearlBusiness\pearl-manage-course\src\main\resources" />
       <recent name="G:\PearlBusiness\pearl-model\src\main\java\com\pearl" />
       <recent name="G:\PearlBusiness\pearl-common\src\main\java\com\pearl" />
-      <recent name="G:\PearlBusiness\pearl-utils\src\main\java\com\pearl" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Testdao">
+  <component name="RunManager" selected="Spring Boot.ManageCourseApplication">
+    <configuration name="QiNiuUploadUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pearl.utils.QiNiuUploadUtils" />
+      <module name="pearl-utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pearl.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Testdao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="pearl-manage-course" />
       <extension name="coverage">
@@ -96,6 +339,22 @@
       <option name="PACKAGE_NAME" value="com.pearl.mansge_course.dao" />
       <option name="MAIN_CLASS_NAME" value="com.pearl.mansge_course.dao.Testdao" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testdao.testCourseMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pearl-manage-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pearl.mansge_course.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pearl.mansge_course.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.pearl.mansge_course.dao.Testdao" />
+      <option name="METHOD_NAME" value="testCourseMapper" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,8 +374,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Testdao" />
         <item itemvalue="Spring Boot.ManageCourseApplication" />
+        <item itemvalue="Application.QiNiuUploadUtils" />
+        <item itemvalue="JUnit.Testdao.testCourseMapper" />
+        <item itemvalue="JUnit.Testdao" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +405,11 @@
       <updated>1575679306664</updated>
       <workItem from="1575679309521" duration="6523000" />
       <workItem from="1575688303715" duration="3272000" />
-      <workItem from="1575771643368" duration="5986000" />
+      <workItem from="1575771643368" duration="22148000" />
+      <workItem from="1575977019013" duration="6005000" />
+      <workItem from="1576236930288" duration="635000" />
+      <workItem from="1576239132409" duration="12731000" />
+      <workItem from="1576295283638" duration="1209000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <created>1575689157595</created>
@@ -153,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575689157595</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="项目初始化">
+      <created>1575793337727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575793337727</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,30 +479,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="997" y="280" key="#Assign_Data_Sources" timestamp="1575776524429">
+    <state x="997" y="280" key="#Assign_Data_Sources" timestamp="1575794357666">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="997" y="280" key="#Assign_Data_Sources/0.0.2048.1112@0.0.2048.1112" timestamp="1575776524429" />
-    <state x="716" y="185" key="#Inspections" timestamp="1575776800543">
+    <state x="997" y="280" key="#Assign_Data_Sources/0.0.2048.1112@0.0.2048.1112" timestamp="1575794357666" />
+    <state x="716" y="185" key="#Inspections" timestamp="1575805026640">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="716" y="185" key="#Inspections/0.0.2048.1112@0.0.2048.1112" timestamp="1575776800543" />
+    <state x="716" y="185" key="#Inspections/0.0.2048.1112@0.0.2048.1112" timestamp="1575805026640" />
     <state x="617" y="207" key="#Notifications" timestamp="1575688330041">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="207" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1575688330041" />
+    <state x="1079" y="255" key="#Project_Structure" timestamp="1575809313387">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1079" y="255" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1575809313387" />
     <state x="1168" y="485" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1575682287791">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1168" y="485" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1575682287791" />
-    <state x="666" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575774955889">
+    <state x="879" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575794146603">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="666" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1575774955889" />
-    <state x="1117" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1575773823707">
+    <state x="879" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1575794146603" />
+    <state x="1117" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1576286312374">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1117" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1575773823707" />
+    <state x="1117" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1576286312374" />
     <state x="976" y="502" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575683409871">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -239,46 +515,70 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="659" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1575774454977" />
-    <state x="618" y="144" key="CommitChangelistDialog2" timestamp="1575776671734">
+    <state x="618" y="144" key="CommitChangelistDialog2" timestamp="1575793336160">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="618" y="144" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1575776671734" />
-    <state x="804" y="310" key="FileChooserDialogImpl" timestamp="1575771157638">
+    <state x="618" y="144" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1575793336160" />
+    <state x="804" y="310" key="FileChooserDialogImpl" timestamp="1576295688275">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="804" y="310" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1575771157638" />
-    <state width="2005" height="441" key="GridCell.Tab.0.bottom" timestamp="1575776971407">
+    <state x="804" y="310" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1576295688275" />
+    <state width="2008" height="212" key="GridCell.Tab.0.bottom" timestamp="1576295269506">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="441" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1575776971407" />
-    <state width="2005" height="441" key="GridCell.Tab.0.center" timestamp="1575776971406">
+    <state width="2008" height="212" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="2008" height="212" key="GridCell.Tab.0.center" timestamp="1576295269505">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="441" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1575776971406" />
-    <state width="2005" height="441" key="GridCell.Tab.0.left" timestamp="1575776971406">
+    <state width="2008" height="212" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269505" />
+    <state width="2008" height="212" key="GridCell.Tab.0.left" timestamp="1576295269505">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="441" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1575776971406" />
-    <state width="2005" height="441" key="GridCell.Tab.0.right" timestamp="1575776971407">
+    <state width="2008" height="212" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269505" />
+    <state width="2008" height="212" key="GridCell.Tab.0.right" timestamp="1576295269506">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="441" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1575776971407" />
-    <state width="1542" height="338" key="GridCell.Tab.1.bottom" timestamp="1575776558996">
+    <state width="2008" height="212" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="2008" height="212" key="GridCell.Tab.1.bottom" timestamp="1576295269506">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1542" height="338" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1575776558996" />
-    <state width="1542" height="338" key="GridCell.Tab.1.center" timestamp="1575776558996">
+    <state width="2008" height="212" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="2008" height="212" key="GridCell.Tab.1.center" timestamp="1576295269506">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1542" height="338" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1575776558996" />
-    <state width="1542" height="338" key="GridCell.Tab.1.left" timestamp="1575776558996">
+    <state width="2008" height="212" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="2008" height="212" key="GridCell.Tab.1.left" timestamp="1576295269506">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1542" height="338" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1575776558996" />
-    <state width="1542" height="338" key="GridCell.Tab.1.right" timestamp="1575776558996">
+    <state width="2008" height="212" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="2008" height="212" key="GridCell.Tab.1.right" timestamp="1576295269506">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="1542" height="338" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1575776558996" />
+    <state width="2008" height="212" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="2008" height="212" key="GridCell.Tab.2.bottom" timestamp="1576295269506">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2008" height="212" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="2008" height="212" key="GridCell.Tab.2.center" timestamp="1576295269506">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2008" height="212" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="2008" height="212" key="GridCell.Tab.2.left" timestamp="1576295269506">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2008" height="212" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="2008" height="212" key="GridCell.Tab.2.right" timestamp="1576295269506">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2008" height="212" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1576295269506" />
+    <state width="221" height="499" key="HiddenNamespacesPopup" timestamp="1575794159710">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="221" height="499" key="HiddenNamespacesPopup/0.0.2048.1112@0.0.2048.1112" timestamp="1575794159710" />
+    <state x="648" y="251" key="NewModule_or_Project.wizard" timestamp="1575978057366">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="648" y="251" key="NewModule_or_Project.wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1575978057366" />
     <state x="579" y="59" width="1195" height="883" key="SettingsEditor" timestamp="1575772043529">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -291,13 +591,29 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="624" y="254" width="800" height="604" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1575683797572" />
-    <state x="688" y="256" key="new project wizard" timestamp="1575771087288">
+    <state x="688" y="256" key="new project wizard" timestamp="1576294319623">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="688" y="256" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1575771087288" />
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1575682863176">
+    <state x="688" y="256" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1576294319623" />
+    <state x="687" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1576239504632">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1575682863176" />
+    <state x="687" y="242" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1576239504632" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/service/CourseService.java</url>
+          <line>135</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pearl-manage-course/src/main/java/com/pearl/manage_course/controller/CourseController.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
